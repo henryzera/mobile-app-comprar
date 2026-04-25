@@ -1,6 +1,6 @@
 # Comprar
 
-<img width="1048" height="2080" alt="comprar" src="https://github.com/user-attachments/assets/702747e0-b3db-4b24-a681-2e3e7ba1878d" />
+<img width="320" alt="comprar" src="https://github.com/user-attachments/assets/702747e0-b3db-4b24-a681-2e3e7ba1878d" />
 
 Aplicativo mobile de lista de compras desenvolvido com **React Native + Expo + TypeScript**.
 
