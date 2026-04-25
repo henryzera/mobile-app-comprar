@@ -5,13 +5,10 @@ import { styles } from "./styles"
 import { StatusIcon } from "@/components/StatusIcon"
 import { FilterStatus } from "@/types/FilterStatus"
 
-type ItemData = {
-    status: FilterStatus,
-    description: string
-}
+import { type ItemStorage } from "@/storage/itemsStorage"
 
 type Props = {
-    data: ItemData
+    data: ItemStorage
     onStatus: () => void
     onRemove: () => void
 }
